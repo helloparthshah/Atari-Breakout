@@ -1,7 +1,7 @@
-# Attari-Breakout
+# Atari-Breakout
 
 ### About the game:
-This is a classical attari breakout game made entirely in c++. The game uses graphics library of c++ for graphical interface and animation purposes. 
+This is a classical Atari breakout game made entirely in c++. The game uses graphics library of c++ for graphical interface and animation purposes. 
 The game is simple, the player has to bounce the ball on the pad and hit the bricks in of the level. If the player is unable to bounce the ball and the ball reaches the bottom end of the screen, the game is over. The player can record his score and later check in the "Hall of fame" section of the game. 
 There are a total of 4 types of bricks in the game.
 Firstly, White brick. This is the easy brick which on hitting will directly collapse.
